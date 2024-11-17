@@ -97,7 +97,6 @@ The GitHub Project feature helps in task organization and progress tracking.
 - Change the project layout to `Board` and define columns like `To Do`, `In Progress`, and `Done`.  
 - Configure automation to update issue status based on branch creation or pull request merges.
 
----
 
 ## **Screenshots and Outputs**  
 - Include screenshots of:  
